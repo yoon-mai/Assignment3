@@ -93,7 +93,7 @@ html {
         padding: 2rem 2rem;
         /* prevents padding and border from affecting height and width */
         box-sizing: border-box;
-        background-color: #df5d00;
+        background-color: #da5b00;
         box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
         position: fixed;
         z-index: 10000;
